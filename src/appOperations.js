@@ -2,5 +2,10 @@ function multiply (num1, num2){
     return num1*num2;
 }
 
-
-module.exports = multiply;multiply;
+function add(num1, num2){
+    reburn num1+num2;
+}
+module.exports = {
+    multiply,
+    add 
+}                  
